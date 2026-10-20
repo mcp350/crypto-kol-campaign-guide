@@ -1,0 +1,11 @@
+site_name: Crypto KOL campaign checklist
+site_description: Vet, price, sequence and measure crypto KOL campaigns on X, Telegram and YouTube.
+site_author: Matt Cepulis, 3betmedia
+repo_url: https://github.com/mcp350/crypto-kol-campaign-guide
+edit_uri: ""
+theme:
+  name: readthedocs
+nav:
+  - Checklist: index.md
+  - 3betmedia.com: https://3betmedia.com/
+  - Streamer sponsorship calculator: https://3betmedia.com/tools/streamer-sponsorship-cost-calculator/
